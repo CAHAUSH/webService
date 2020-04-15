@@ -4,6 +4,7 @@ import org.apache.axis2.rpc.client.RPCServiceClient;
 
 import javax.xml.namespace.QName;
 
+/**RPC CLIENT TEST PROGRAM*/
 public class RPCMainTest {
     public static void main(String args[]) throws Throwable{
         //指定getInfo方法的参数值
